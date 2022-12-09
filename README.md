@@ -1,16 +1,10 @@
 
 # IT 工程师简历 
 
+![](https://img.shields.io/badge/ruby-v2.6.8p205-green) ![](https://img.shields.io/badge/gem-3.0.3.1-green) ![](https://img.shields.io/badge/style-markdown-green)
 <p align="center">
   <img src="images/screenshots-2022-12-09_11-09-26.png" width="578" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ruby-v2.6.8p205-green"/>
-  <img src="https://img.shields.io/badge/gem-3.0.3.1-green"/>
-  <img src="https://img.shields.io/badge/style-markdown-green"/>
-</p>
-
 
 ## 简介
 

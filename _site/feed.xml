@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FANG SHENGHUI - Reading, Life, Tech</title>
+    <description>读书，生活，技术</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 09 Dec 2022 15:21:37 +0800</pubDate>
+    <lastBuildDate>Fri, 09 Dec 2022 15:21:37 +0800</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>简历</title>
+        <description>&lt;h1 id=&quot;-个人信息&quot;&gt;# 个人信息&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/my-2022-12-08_21-16-55.png&quot; style=&quot;float:right&quot; width=&quot;150&quot; height=&quot;190&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;姓名：旗木卡卡西&lt;/li&gt;
+  &lt;li&gt;现居：火之国-木叶村&lt;/li&gt;
+  &lt;li&gt;出生年月： 9月15 日&lt;/li&gt;
+  &lt;li&gt;毕业院校：木叶村忍者学校&lt;/li&gt;
+  &lt;li&gt;职位：上忍&lt;/li&gt;
+  &lt;li&gt;博客：&lt;a href=&quot;http://blog.xyecho.com&quot;&gt;http://blog.xyecho.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;-工作历经&quot;&gt;# 工作历经&lt;/h1&gt;
+
+&lt;h3 id=&quot;暗部&quot;&gt;暗部&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;在暗部时升格为队长，大和以及宇智波鼬都曾是卡卡西在暗部时期的旧识。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;第七班的导师&quot;&gt;第七班的导师&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;成为 漩涡鸣人、宇智波佐助及春野樱的导师。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;忍界大战&quot;&gt;忍界大战&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;分配到第三部队 近中距离联合军分队，并担任其队长，与李洛克和阿凯同队。&lt;/li&gt;
+  &lt;li&gt;与阿凯前去支援与阿飞苦战中的鸣人和杀人蜂。&lt;/li&gt;
+  &lt;li&gt;和水门一起的感化带土。&lt;/li&gt;
+  &lt;li&gt;成为第六代火影，治理木叶忍者村。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;-技能列表&quot;&gt;# 技能列表 &lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;雷遁‧雷切&lt;/li&gt;
+  &lt;li&gt;雷遁·紫电&lt;/li&gt;
+  &lt;li&gt;拷贝忍术&lt;/li&gt;
+  &lt;li&gt;通灵之术 八忍犬&lt;/li&gt;
+  &lt;li&gt;雷切‧双穿光&lt;/li&gt;
+  &lt;li&gt;万花筒写轮眼‧神威&lt;/li&gt;
+  &lt;li&gt;须佐能乎完全体&lt;/li&gt;
+  &lt;li&gt;神威手里剑&lt;/li&gt;
+  &lt;li&gt;神威雷切&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;-兴趣及评价&quot;&gt;# 兴趣及评价  &lt;/h1&gt;
+
+&lt;p&gt;兴趣：看小黄书。&lt;/p&gt;
+
+&lt;p&gt;评价：个人主义、腹黑、幽默谦虚、沉著稳重、重情重义、温柔体贴、冷静睿智。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Dec 2022 01:00:30 +0800</pubDate>
+        <link>http://localhost:4000/information</link>
+        <guid isPermaLink="true">http://localhost:4000/information</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+# Site settings
+title: Kakabei - Reading, Life, Tech
+author: carlos
+author_avatar: /images/muye-logo-2022-12-09_10-27-21.png
+email: 
+description: 读书，生活，技术
+url: "http://blog.xyecho.com"
+domain: "xyecho.com"
+github_site_repo: kakabei/kakabei.github.io
+
+
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    input: GFM
+    syntax_highlighter: rouge
+    #extensions: ["fenced_code_blocks", "autolink", "tables", "smart"]
+    extensions: [ "fenced_code_blocks", "hard_wrap","autolink", "tables", "smart","strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
+
+
+sass:
+    style: :compressed
+    sass_dir: _sass
+
+permalink: /:title
+excerpt_separator: "<!-- more -->"
+
+# path
+categories_path: categories
+tags_path: tags
+
+
+gems:
+  - jekyll-sitemap
